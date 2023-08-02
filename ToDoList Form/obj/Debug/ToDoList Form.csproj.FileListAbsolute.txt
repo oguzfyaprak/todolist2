@@ -1,0 +1,11 @@
+C:\Users\kalxe\source\repos\ToDoList Form\ToDoList Form\bin\Debug\ToDoList Form.exe.config
+C:\Users\kalxe\source\repos\ToDoList Form\ToDoList Form\bin\Debug\ToDoList Form.exe
+C:\Users\kalxe\source\repos\ToDoList Form\ToDoList Form\bin\Debug\ToDoList Form.pdb
+C:\Users\kalxe\source\repos\ToDoList Form\ToDoList Form\obj\Debug\ToDoList Form.csproj.AssemblyReference.cache
+C:\Users\kalxe\source\repos\ToDoList Form\ToDoList Form\obj\Debug\ToDoList Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\kalxe\source\repos\ToDoList Form\ToDoList Form\obj\Debug\ToDoList_Form.Form1.resources
+C:\Users\kalxe\source\repos\ToDoList Form\ToDoList Form\obj\Debug\ToDoList_Form.Properties.Resources.resources
+C:\Users\kalxe\source\repos\ToDoList Form\ToDoList Form\obj\Debug\ToDoList Form.csproj.GenerateResource.cache
+C:\Users\kalxe\source\repos\ToDoList Form\ToDoList Form\obj\Debug\ToDoList Form.csproj.CoreCompileInputs.cache
+C:\Users\kalxe\source\repos\ToDoList Form\ToDoList Form\obj\Debug\ToDoList Form.exe
+C:\Users\kalxe\source\repos\ToDoList Form\ToDoList Form\obj\Debug\ToDoList Form.pdb
